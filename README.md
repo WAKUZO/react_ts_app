@@ -63,6 +63,8 @@ http://localhost:8000/ にアクセスする
 
 # ローカルで動かす
 
+git clone後
+
 ```
 % docker-compose build
 % docker-compose run --rm frontend yarn install
