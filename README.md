@@ -76,6 +76,7 @@ http://localhost:8000/ にアクセスする
 
 ## 環境
 
+```
 Apple M1 Pro
 macOS BigSur 12.1
 Docker Engine 20.10.12
@@ -83,3 +84,4 @@ Docker Compose 1.29.2
 react 18.0.17
 react-dom 18.0.6
 typescript 4.7.4
+```
